@@ -1,0 +1,13 @@
+{
+    "name": "League",
+    "alias": "league",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\League\\Providers\\LeagueServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
