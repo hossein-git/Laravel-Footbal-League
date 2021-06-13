@@ -1,6 +1,6 @@
 ## screenshots
-![fooball leageus screenshot](https://github.com/hossein-git/Laravel-Footbal-League/public/match-list.png)
-![fooball leageus screenshot](https://github.com/hossein-git/Laravel-Footbal-League/public/footbal-main-screen.png)
+![fooball leageus screenshot](https://github.com/hossein-git/Laravel-Footbal-League/blob/master/public/footbal-main-screen.png)
+![fooball leageus screenshot](https://github.com/hossein-git/Laravel-Footbal-League/blob/master/public/match-list.png)
 
 
 ####To add more teams:
